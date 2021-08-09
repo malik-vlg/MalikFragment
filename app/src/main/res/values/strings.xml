@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MalikFragment</string>
+    <string name="this_is_the_title">This is the Title</string>
+    <string name="this_is_the_description">This is the Description</string>
+    <string name="todo">TODO</string>
+    <string name="searchbar">Searchbar</string>
+    <string name="delete_all_notes">Delete_all_notes</string>
+    <string name="title">Title</string>
+    <string name="description" />
+    <string name="add_note">Add Note</string>
+    <string name="update_note">Update Note</string>
+</resources>
