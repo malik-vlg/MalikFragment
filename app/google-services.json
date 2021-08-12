@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "381324299544",
+    "project_id": "malikfragments",
+    "storage_bucket": "malikfragments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381324299544:android:4f69ac98e29fa35a30626d",
+        "android_client_info": {
+          "package_name": "com.example.malikfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381324299544-v0qrdfr6dbkpo2kbsippp8lcst98uahf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AU8W3NGSJWdRUgwlFRdqaZ4mbMwzgUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381324299544-v0qrdfr6dbkpo2kbsippp8lcst98uahf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381324299544:android:d0716827c73be03330626d",
+        "android_client_info": {
+          "package_name": "com.example.malikfragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381324299544-v0qrdfr6dbkpo2kbsippp8lcst98uahf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AU8W3NGSJWdRUgwlFRdqaZ4mbMwzgUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381324299544-v0qrdfr6dbkpo2kbsippp8lcst98uahf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

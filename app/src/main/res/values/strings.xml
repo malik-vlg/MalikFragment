@@ -9,4 +9,14 @@
     <string name="description" />
     <string name="add_note">Add Note</string>
     <string name="update_note">Update Note</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="register">Register</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="logout">Logout</string>
 </resources>
